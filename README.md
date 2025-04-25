@@ -6,6 +6,8 @@ With these tools, your private keys remain securely stored in your crypto wallet
 
 ## Preview
 
+https://github.com/user-attachments/assets/3fe8f20b-4666-4c36-8030-04d3e5d587c7
+
 ## Requirements
 - Node.js (v20 or higher)
 - pnpm
