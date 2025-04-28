@@ -4,6 +4,10 @@ A Model Context Protocol (MCP) server that allows LLM to interact with the block
 
 With these tools, your private keys remain securely stored in your crypto wallet and are never shared with the AI agent when signing messages or sending transactions.
 
+<a href="https://glama.ai/mcp/servers/@Xiawpohr/metamask-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Xiawpohr/metamask-mcp/badge" alt="MetaMask MCP server" />
+</a>
+
 ## Preview
 
 https://github.com/user-attachments/assets/3fe8f20b-4666-4c36-8030-04d3e5d587c7
